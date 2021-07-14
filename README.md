@@ -5,9 +5,9 @@
 ![](https://img.shields.io/badge/Scrooge-mobile-%23D13212?style=for-the-badge)
 
 ## Logo
-<img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/logo.png?raw=true" width="30%">
+<img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/logo.png?raw=true" width="50%">
 
-### About Project
+### About Scrooge
 
 다년간의 사용 경험으로부터 만들어낸 가장 완벽한 가계부, Scrooge <br>
 
@@ -19,7 +19,6 @@ Scrooge는 단순히 수입과 지출이 완벽하게 똑같아야 차액이 생
 
 ---
 ## 주요 기능 gif & 간략한 설명
-
 
 ---
 
@@ -34,7 +33,6 @@ Scrooge는 단순히 수입과 지출이 완벽하게 똑같아야 차액이 생
 ![](https://img.shields.io/badge/front-REACT-blue?style=for-the-badge&logo=react&logoColor=white%22)
 ![](https://camo.githubusercontent.com/adf0b94d6d328f18bc51dabd144eaeb0f09e12f9d5934535afa4dca91be58205/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46524f4e542d52454455582d707572706c653f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578)
 ![](https://img.shields.io/badge/front-scss-%23BF4080?style=for-the-badge&logo=Rudux&logoColor=white)<br>
-![](https://img.shields.io/badge/front-axios-purple?style=for-the-badge)
 
 **BACK END** <br>
 ![](https://camo.githubusercontent.com/f7be9e2ed888504c82a4a00ea8b1b927b5624721b7c2daf825ee1535c88bf286/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4241434b2d455850524553532d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373)
@@ -42,12 +40,10 @@ Scrooge는 단순히 수입과 지출이 완벽하게 똑같아야 차액이 생
 ![](https://img.shields.io/badge/BACK-MySQL-99FFFF?style=for-the-badge&logo=mysql&logoColor=99FFFF%22)<br>
 ![](https://img.shields.io/badge/BACK-AWS-%23F8991D?style=for-the-badge&logoColor=white%22)
 ![](https://img.shields.io/badge/back-OAuth-%23002A7A?style=for-the-badge)
-![](https://img.shields.io/badge/BACK-axios-purple?style=for-the-badge)<br>
 
 ---
 
-
-## Scrooge Team Members
+## Team A.T.M Member
 | 팀원 | 포지션 | 깃허브 |
 |:---:|:---:|:---:|
 | 손용휘 | Frontend | [hihello1123](https://github.com/hihello1123)<br> |
