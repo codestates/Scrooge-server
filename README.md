@@ -7,8 +7,7 @@
 ## Logo
 <img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/logo.png?raw=true" width="30%">
 
-
-## About Project
+### About Project
 
 다년간의 사용 경험으로부터 만들어낸 가장 완벽한 가계부, Scrooge <br>
 
@@ -25,20 +24,20 @@ Scrooge는 단순히 수입과 지출이 완벽하게 똑같아야 차액이 생
 ---
 
 ## Tech Stack<br>
-###  3D 테크 스택 구조 사진
+### 3D 테크 스택 구조 사진 (Stack Architecture)
 
 **COMMON**<br>
-![](https://img.shields.io/badge/front-Node-blue?style=for-the-badge&logoColor=white%22)
+![](https://img.shields.io/badge/Common-Node-blue?style=for-the-badge&logoColor=white%22)
+![](https://camo.githubusercontent.com/4eb7c1ee8e54ba42058a1329a0fe8104b33fa6953c65f317e29c231ede33226c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f434f4d4d4f4e2d50524554544945522d4637423933453f7374796c653d666f722d7468652d6261646765266c6f676f3d7072657474696572)
 
 **FRONT END** <br>
 ![](https://img.shields.io/badge/front-REACT-blue?style=for-the-badge&logo=react&logoColor=white%22)
-![](https://img.shields.io/badge/front-redux-blueviolet?style=for-the-badge&logo=Rudux&logoColor=white%22)
+![](https://camo.githubusercontent.com/adf0b94d6d328f18bc51dabd144eaeb0f09e12f9d5934535afa4dca91be58205/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46524f4e542d52454455582d707572706c653f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578)
 ![](https://img.shields.io/badge/front-scss-%23BF4080?style=for-the-badge&logo=Rudux&logoColor=white)<br>
 ![](https://img.shields.io/badge/front-axios-purple?style=for-the-badge)
 
-
 **BACK END** <br>
-![](https://img.shields.io/badge/BACK-express-black?style=for-the-badge)
+![](https://camo.githubusercontent.com/f7be9e2ed888504c82a4a00ea8b1b927b5624721b7c2daf825ee1535c88bf286/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4241434b2d455850524553532d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373)
 ![](https://img.shields.io/badge/BACK-sequelize-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/BACK-MySQL-99FFFF?style=for-the-badge&logo=mysql&logoColor=99FFFF%22)<br>
 ![](https://img.shields.io/badge/BACK-AWS-%23F8991D?style=for-the-badge&logoColor=white%22)
