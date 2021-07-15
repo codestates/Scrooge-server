@@ -51,4 +51,4 @@ Scrooge는 단순히 수입과 지출이 완벽하게 똑같아야 차액이 생
 | 이찬양 | Backend | [chanyang721](https://github.com/chanyang721)<br> |
 | 박민규 | Backend | [pmg7522](https://github.com/pmg7522)<br> |
 
-### [WiKi 구경가기]()
+### [WiKi 구경가기](https://github.com/codestates/Scrooge-server/wiki)
