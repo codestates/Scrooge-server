@@ -123,7 +123,7 @@ module.exports = async (req, res) => {
         Yonghui,
         Chanyang,
       },
-      Gif: {
+      gif: {
         First,
         Second,
       },
