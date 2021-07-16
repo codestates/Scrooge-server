@@ -43,15 +43,15 @@ Scrooge는 단순히 수입과 지출이 완벽하게 똑같아야 차액이 생
 <img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/%E1%84%83%E1%85%B5%E1%84%91%E1%85%A9%E1%86%AF%E1%84%90%E1%85%B3%20%E1%84%86%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%A9%E1%84%90%E1%85%B3%20%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5.png?raw=true" width="2%">**[업적 건의하러 가기](https://github.com/codestates/Scrooge-server/discussions)**<br>
 <img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/%E1%84%82%E1%85%A9%E1%84%89%E1%85%A7%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%20gif/Yearly%20page/%E1%84%8C%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B5%E1%84%87%E1%85%A1%E1%87%80.gif?raw=true" width="80%">
 
-## Budget Page
+## Budget Page <br>
 **예산 통계와 지출 통계를 그래프로 확인할 수 있고, 카테고리를 관리 할 수 있습니다!**<br>
 <img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/%EC%98%88%EC%82%B0.gif?raw=true" width="80%">
 
-## Setting Page
-**로그인 시 첫 페이지 설정 기능, 지출 정보 엑셀로 다운받기, 테마 설정, 한달 주기 설정 등 다양한 셋팅을 할 수 있는 페이지에요!**
+## Setting Page <br>
+**로그인 시 첫 페이지 설정 기능, 지출 정보 엑셀로 다운받기, 테마 설정, 한달 주기 설정 등 다양한 셋팅을 할 수 있는 페이지에요!** <br>
 <img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/%EB%B0%98%EC%9D%91%ED%98%95.gif?raw=true" width="80%">
 
-## 반응형 디자인
+## 반응형 디자인 <br>
 <img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/%E1%84%82%E1%85%A9%E1%84%89%E1%85%A7%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%20gif/Responsive%20page/%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%85%E1%85%B5%20%E1%84%87%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B3%E1%86%BC%E1%84%92%E1%85%A7%E1%86%BC.gif?raw=true" width="80%">
 
 ---
