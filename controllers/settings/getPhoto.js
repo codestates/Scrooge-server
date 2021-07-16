@@ -70,6 +70,13 @@ module.exports = async (req, res) => {
     "./uploads/ce8e88556d30b3e78bf384a894ab2875"
   ); // Chanyang
 
+  let landingFirstGif = fs.readFileSync(
+    "./uploads/07b6c17c888b296ef3db3098efb77699"
+  ); // First
+  let landingSecondGif = fs.readFileSync(
+    "./uploads/3a7853b85bd1ec72f168c2965c868548"
+  ); // Second
+
   let Solhee = imageDataUri.encode(landingSolhee, "jpg");
   let Coding = imageDataUri.encode(landingCoding, "jpg");
   let Mingyu = imageDataUri.encode(landingMingyu, "jpg");
@@ -89,6 +96,9 @@ module.exports = async (req, res) => {
   let MonthlyPage = imageDataUri.encode(landingMonthlyPage, "jpg");
   let YearlyPage = imageDataUri.encode(landingYearlyPage, "jpg");
   let PieChart = imageDataUri.encode(landingPieChart, "jpg");
+
+  let First = imageDataUri.encode(landingFirstGif, "jpg");
+  let Second = imageDataUri.encode(landingSecondGif, "jpg");
 
   res.status(200).send({
     data: {
@@ -112,6 +122,10 @@ module.exports = async (req, res) => {
         Mingyu,
         Yonghui,
         Chanyang,
+      },
+      Gif: {
+        First,
+        Second,
       },
     },
   });
