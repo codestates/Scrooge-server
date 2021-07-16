@@ -27,7 +27,7 @@ Scrooge는 단순히 수입과 지출이 완벽하게 똑같아야 차액이 생
 # 주요 기능
 
 ## Landing page
-<img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/%E1%84%82%E1%85%A9%E1%84%89%E1%85%A7%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%20gif/Landing%20page/%E1%84%85%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B5%E1%86%BC.gif?raw=true" width="80%" height="80%">
+<img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/%EB%9E%9C%EB%94%A9%ED%8E%98%EC%9D%B4%EC%A7%80.gif?raw=true" width="80%" height="80%">
 
 ## Daily Page
 **지출 정보 관리와 더불어 카테고리 검색, 메모 검색, 날짜 정렬 등 다양한 기능을 사용하실 수 있어요!**
