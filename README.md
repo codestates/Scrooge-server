@@ -26,19 +26,19 @@ Scrooge는 단순히 수입과 지출이 완벽하게 똑같아야 차액이 생
 ---
 # 주요 기능
 
-## Landing page
+## Landing page <br>
 <img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/%EB%9E%9C%EB%94%A9%ED%8E%98%EC%9D%B4%EC%A7%80.gif?raw=true" width="80%" height="80%">
 
-## Daily Page
-**지출 정보 관리와 더불어 카테고리 검색, 메모 검색, 날짜 정렬 등 다양한 기능을 사용하실 수 있어요!**
+## Daily Page <br>
+**지출 정보 관리와 더불어 카테고리 검색, 메모 검색, 날짜 정렬 등 다양한 기능을 사용하실 수 있어요!** <br>
 
 <img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/%E1%84%82%E1%85%A9%E1%84%89%E1%85%A7%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%20gif/Daily%20page/%E1%84%8C%E1%85%B5%E1%84%8E%E1%85%AE%E1%86%AF%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%20%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC%20%E1%84%89%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%A6%20.gif?raw=true" width="80%">
 
-## Monthly Page
-**해당 월에 해당하는 지출 정보를 한눈에 확인 할 수 있고, 각 날짜마다 사용한 금액의 합계를 보여주어 예산 관리에 도움을 주게 됩니다!**
+## Monthly Page <br>
+**해당 월에 해당하는 지출 정보를 한눈에 확인 할 수 있고, 각 날짜마다 사용한 금액의 합계를 보여주어 예산 관리에 도움을 주게 됩니다!** <br>
 <img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/%E1%84%82%E1%85%A9%E1%84%89%E1%85%A7%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%20gif/Monthly%20page/%E1%84%8B%E1%85%AF%E1%86%AF%E1%84%87%E1%85%A7%E1%86%AF.gif?raw=true" width="80%">
 
-## Yearly Page
+## Yearly Page <br>
 **날짜마다 지출 횟수를 확인 할 수 있는 연도별 그래프와 올 해 다양한 업적을 확인 할 수 있습니다!**<br>
 <img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/%E1%84%83%E1%85%B5%E1%84%91%E1%85%A9%E1%86%AF%E1%84%90%E1%85%B3%20%E1%84%86%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%A9%E1%84%90%E1%85%B3%20%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5.png?raw=true" width="2%">**[업적 건의하러 가기](https://github.com/codestates/Scrooge-server/discussions)**<br>
 <img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/%E1%84%82%E1%85%A9%E1%84%89%E1%85%A7%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%20gif/Yearly%20page/%E1%84%8C%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B5%E1%84%87%E1%85%A1%E1%87%80.gif?raw=true" width="80%">
