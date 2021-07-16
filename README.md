@@ -1,6 +1,6 @@
 <p align="center">
-<img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/%E1%84%92%E1%85%B4%E1%86%AB%E1%84%85%E1%85%A9%E1%84%80%E1%85%A9.png?raw=true" width="50%"><br>
-<img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/%E1%84%83%E1%85%B5%E1%84%91%E1%85%A9%E1%86%AF%E1%84%90%E1%85%B3%20%E1%84%86%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%A9%E1%84%90%E1%85%B3%20%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5.png?raw=true" width="2%"> <strong>Scrooge는 자신만의 예산을 설정하여 계획적인 지출 습관을 만들도록 유도합니다</strong>
+<img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%85%E1%85%A9%E1%84%80%E1%85%A9.png?raw=true" width="50%"><br>
+ <img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/%E1%84%83%E1%85%B5%E1%84%91%E1%85%A9%E1%86%AF%E1%84%90%E1%85%B3%20%E1%84%86%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%A9%E1%84%90%E1%85%B3%20%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5.png?raw=true" width="2%"> <strong>Scrooge는 자신만의 예산을 설정하여 계획적인 지출 습관을 만들도록 유도합니다</strong>
 </p>
 
 <br>
@@ -10,6 +10,8 @@
 <br>
 
 ## About Scrooge
+<img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/%E1%84%92%E1%85%B4%E1%86%AB%E1%84%85%E1%85%A9%E1%84%80%E1%85%A9.png?raw=true" width="50%"><br>
+
 ![](https://img.shields.io/badge/Project-Scrooge-blueviolet?style=for-the-badge)
 ![](https://img.shields.io/badge/Scrooge-Web-black?style=for-the-badge)
 ![](https://img.shields.io/badge/Scrooge-tablet-purple?style=for-the-badge)
