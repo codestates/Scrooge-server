@@ -38,12 +38,12 @@ Scrooge는 단순히 수입과 지출이 완벽하게 똑같아야 차액이 생
 
 ## Monthly Page
 **해당 월에 해당하는 지출 정보를 한눈에 확인 할 수 있고, 각 날짜마다 사용한 금액의 합계를 보여주어 예산 관리에 도움을 주게 됩니다!**
-<img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/%E1%84%82%E1%85%A9%E1%84%89%E1%85%A7%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%20gif/Monthly%20page/%E1%84%8B%E1%85%AF%E1%86%AF%E1%84%87%E1%85%A7%E1%86%AF.gif?raw=true" width="80%">
+<img src="" width="80%">
 
 ## Yearly Page
 **날짜마다 지출 횟수를 확인 할 수 있는 연도별 그래프와 올 해 다양한 업적을 확인 할 수 있습니다!**<br>
 <img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/%E1%84%83%E1%85%B5%E1%84%91%E1%85%A9%E1%86%AF%E1%84%90%E1%85%B3%20%E1%84%86%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%A9%E1%84%90%E1%85%B3%20%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5.png?raw=true" width="2%">**[업적 건의하러 가기](https://github.com/codestates/Scrooge-server/discussions)**<br>
-<img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/%E1%84%82%E1%85%A9%E1%84%89%E1%85%A7%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%20gif/Yearly%20page/%E1%84%8C%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B5%E1%84%87%E1%85%A1%E1%87%80.gif?raw=true" width="80%">
+<img src="" width="80%">
 
 ## Budget Page
 **예산 통계와 지출 통계를 그래프로 확인할 수 있고, 카테고리를 관리 할 수 있습니다!**
