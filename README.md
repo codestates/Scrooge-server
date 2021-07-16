@@ -1,29 +1,58 @@
-# Scrooge 
-![](https://img.shields.io/badge/Project-Scrooge-blueviolet?style=for-the-badge)<br>
+<p align="center">
+<img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/%E1%84%92%E1%85%B4%E1%86%AB%E1%84%85%E1%85%A9%E1%84%80%E1%85%A9.png?raw=true" width="50%"><br>
+<img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/%E1%84%83%E1%85%B5%E1%84%91%E1%85%A9%E1%86%AF%E1%84%90%E1%85%B3%20%E1%84%86%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%A9%E1%84%90%E1%85%B3%20%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5.png?raw=true" width="2%"> <strong>Scrooge는 자신만의 예산을 설정하여 계획적인 지출 습관을 만들도록 유도합니다</strong>
+</p>
+
+<br>
+
+---
+
+<br>
+
+## About Scrooge
+![](https://img.shields.io/badge/Project-Scrooge-blueviolet?style=for-the-badge)
 ![](https://img.shields.io/badge/Scrooge-Web-black?style=for-the-badge)
 ![](https://img.shields.io/badge/Scrooge-tablet-purple?style=for-the-badge)
-![](https://img.shields.io/badge/Scrooge-mobile-%23D13212?style=for-the-badge)
-
-## Logo
-<img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/logo.png?raw=true" width="50%">
-
-### About Scrooge
-
+![](https://img.shields.io/badge/Scrooge-mobile-%23D13212?style=for-the-badge)<br><br>
 다년간의 사용 경험으로부터 만들어낸 가장 완벽한 가계부, Scrooge <br>
 
 Scrooge는 단순히 수입과 지출이 완벽하게 똑같아야 차액이 생기지 않는 가계부가 아닙니다. <br>
 
 스스로 예산을 정해 계획적인 지출을 할 수 있도록 도와주는 웹 앱입니다.<br>
 
-### [Scrooge 구경가기](https://scrooge.today)
+<img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/%E1%84%83%E1%85%B5%E1%84%91%E1%85%A9%E1%86%AF%E1%84%90%E1%85%B3%20%E1%84%86%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%A9%E1%84%90%E1%85%B3%20%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5.png?raw=true" width="2%"> **[Scrooge 구경가기](https://scrooge.today)**<br><br>
+<img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/%E1%84%83%E1%85%B5%E1%84%91%E1%85%A9%E1%86%AF%E1%84%90%E1%85%B3%20%E1%84%86%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%A9%E1%84%90%E1%85%B3%20%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5.png?raw=true" width="2%"> **[Notion 구경가기]()**
 
 ---
-## 주요 기능 gif & 간략한 설명
+# 주요 기능
 
+## Landing page
+<img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/%E1%84%82%E1%85%A9%E1%84%89%E1%85%A7%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%20gif/Landing%20page/%E1%84%85%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B5%E1%86%BC.gif?raw=true" width="80%" height="80%">
+
+## Daily Page
+**지출 정보 관리와 더불어 카테고리 검색, 메모 검색, 날짜 정렬 등 다양한 기능을 사용하실 수 있어요!**
+
+<img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/%E1%84%82%E1%85%A9%E1%84%89%E1%85%A7%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%20gif/Daily%20page/%E1%84%8C%E1%85%B5%E1%84%8E%E1%85%AE%E1%86%AF%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%20%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC%20%E1%84%89%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%A6%20.gif?raw=true" width="80%">
+
+## Monthly Page
+**해당 월에 해당하는 지출 정보를 한눈에 확인 할 수 있고, 각 날자마다 사용한 금액의 합계를 보여주어 예산 관리에 도움을 주게 됩니다!**
+<img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/%E1%84%82%E1%85%A9%E1%84%89%E1%85%A7%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%20gif/Monthly%20page/%E1%84%8B%E1%85%AF%E1%86%AF%E1%84%87%E1%85%A7%E1%86%AF.gif?raw=true" width="80%">
+
+## Yearly Page
+**날짜마다 지출 횟수를 확인 할 수 있는 연도별 그래프와 올 해 다양한 업적을 확인 할 수 있습니다!**<br>
+<img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/%E1%84%83%E1%85%B5%E1%84%91%E1%85%A9%E1%86%AF%E1%84%90%E1%85%B3%20%E1%84%86%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%A9%E1%84%90%E1%85%B3%20%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5.png?raw=true" width="2%">**[업적 건의하러 가기](https://github.com/codestates/Scrooge-server/discussions)**<br>
+<img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/%E1%84%82%E1%85%A9%E1%84%89%E1%85%A7%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%20gif/Yearly%20page/%E1%84%8C%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B5%E1%84%87%E1%85%A1%E1%87%80.gif?raw=true" width="80%">
+
+## Setting Page
+**로그인 시 첫 페이지 설정 기능, 지출 정보 엑셀로 다운받기, 테마 설정, 한달 주기 설정 등 다양한 셋팅을 할 수 있는 페이지에요!**
+<img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/%E1%84%82%E1%85%A9%E1%84%89%E1%85%A7%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%20gif/Setting%20page/%E1%84%8B%E1%85%A6%E1%86%A8%E1%84%89%E1%85%A6%E1%86%AF%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%83%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB.gif?raw=true" width="80%">
+
+## 반응형 디자인
+<img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/%E1%84%82%E1%85%A9%E1%84%89%E1%85%A7%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%20gif/Responsive%20page/%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%85%E1%85%B5%20%E1%84%87%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B3%E1%86%BC%E1%84%92%E1%85%A7%E1%86%BC.gif?raw=true" width="80%">
 ---
 
 ## Tech Stack<br>
-### 3D 테크 스택 구조 사진 (Stack Architecture)
+<img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/3D%E1%84%8B%E1%85%A1%E1%84%8F%E1%85%B5%E1%84%90%E1%85%A6%E1%86%A8%E1%84%8E%E1%85%A7.png?raw=true" width="80%" height="80%">
 
 **COMMON**<br>
 ![](https://img.shields.io/badge/Common-Node-blue?style=for-the-badge&logoColor=white%22)
