@@ -38,7 +38,7 @@ Scrooge는 단순히 수입과 지출이 완벽하게 똑같아야 차액이 생
 
 ## Monthly Page
 **해당 월에 해당하는 지출 정보를 한눈에 확인 할 수 있고, 각 날짜마다 사용한 금액의 합계를 보여주어 예산 관리에 도움을 주게 됩니다!**
-<img src="" width="80%">
+<img src="https://github.com/codestates/Scrooge-server/blob/master/Wiki_image/%E1%84%86%E1%85%A5%E1%86%AB%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5.gif?raw=true" width="80%">
 
 ## Yearly Page
 **날짜마다 지출 횟수를 확인 할 수 있는 연도별 그래프와 올 해 다양한 업적을 확인 할 수 있습니다!**<br>
